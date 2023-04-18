@@ -4,7 +4,6 @@ target/
 !**/src/test/**/target/
 .idea/
 *iml
-pom.xml
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
